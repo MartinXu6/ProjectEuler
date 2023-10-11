@@ -1,0 +1,2 @@
+def primes(n):
+    return
